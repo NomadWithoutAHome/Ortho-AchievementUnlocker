@@ -1,2 +1,2 @@
-# Ortho-Unlocker
+# Ortho
 A Steam achievement unlocker
